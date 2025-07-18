@@ -42,12 +42,13 @@ All scripts are tested on CentOS 7-based systems with root access.
 To run a script:
 
 ```bash
-sudo bash task1.sh```
+sudo bash task1.sh
 
-🧑‍💻 Author
+
+## 🧑‍💻 Author
 Dmytro Korobko
 DevOps Student & Automation Enthusiast
 GitHub: @dmytrokorobko
 
-📜 License
+## 📜 License
 MIT — use these scripts freely for learning or adaptation.
