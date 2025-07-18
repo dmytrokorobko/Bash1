@@ -42,7 +42,7 @@ All scripts are tested on CentOS 7-based systems with root access.
 To run a script:
 
 ```bash
-sudo bash task1.sh
+sudo bash task1.sh```
 
 🧑‍💻 Author
 Dmytro Korobko
